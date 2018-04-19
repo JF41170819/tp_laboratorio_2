@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\TrabajoPractico1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\TrabajoPractico1\Entidades\bin\Debug\Entidades.dll
+E:\TrabajoPractico1\Entidades\bin\Debug\Entidades.pdb
+E:\TrabajoPractico1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\TrabajoPractico1\Entidades\obj\Debug\Entidades.dll
+E:\TrabajoPractico1\Entidades\obj\Debug\Entidades.pdb
+F:\TrabajoPractico1\Entidades\bin\Debug\Entidades.dll
+F:\TrabajoPractico1\Entidades\bin\Debug\Entidades.pdb
+F:\TrabajoPractico1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\TrabajoPractico1\Entidades\obj\Debug\Entidades.dll
+F:\TrabajoPractico1\Entidades\obj\Debug\Entidades.pdb

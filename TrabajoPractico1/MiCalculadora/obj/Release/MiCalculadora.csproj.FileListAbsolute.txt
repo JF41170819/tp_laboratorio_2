@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\bin\Release\MiCalculadora.exe.config
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\bin\Release\MiCalculadora.exe
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\bin\Release\MiCalculadora.pdb
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\obj\Release\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\obj\Release\MiCalculadora.LaCalculadora.resources
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\obj\Release\MiCalculadora.Properties.Resources.resources
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\obj\Release\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\obj\Release\MiCalculadora.exe
+C:\Users\Admin\Desktop\TrabajoPractico1\MiCalculadora\obj\Release\MiCalculadora.pdb
