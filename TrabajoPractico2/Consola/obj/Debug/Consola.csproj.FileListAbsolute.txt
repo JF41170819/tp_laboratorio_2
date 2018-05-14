@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\bin\Debug\Consola.exe.config
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\bin\Debug\Consola.exe
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\bin\Debug\Consola.pdb
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\obj\Debug\Consola.exe
+C:\Users\Admin\Desktop\TrabajoPractico2\Consola\obj\Debug\Consola.pdb
