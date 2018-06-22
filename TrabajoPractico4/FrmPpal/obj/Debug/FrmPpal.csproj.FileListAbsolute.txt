@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\obj\Debug\FrmPpal.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\obj\Debug\FrmPpal.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico4\FrmPpal\bin\Debug\Entidades.pdb

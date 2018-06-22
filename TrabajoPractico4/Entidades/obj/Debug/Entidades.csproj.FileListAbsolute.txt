@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\TrabajoPractico4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Admin\Desktop\TrabajoPractico4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

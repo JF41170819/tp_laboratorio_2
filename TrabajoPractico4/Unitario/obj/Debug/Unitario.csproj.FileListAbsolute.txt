@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TrabajoPractico4\Unitario\obj\Debug\Unitario.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TrabajoPractico4\Unitario\bin\Debug\Unitario.dll
+C:\Users\Admin\Desktop\TrabajoPractico4\Unitario\bin\Debug\Unitario.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\Unitario\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico4\Unitario\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\Unitario\obj\Debug\Unitario.dll
+C:\Users\Admin\Desktop\TrabajoPractico4\Unitario\obj\Debug\Unitario.pdb
