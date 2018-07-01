@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Admin\Desktop\TrabajoPractico4 - copia\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Admin\Desktop\TrabajoPractico4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
